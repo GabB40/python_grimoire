@@ -1,0 +1,61 @@
+{
+  "_default": {
+    "1": {
+      "name": "Patrick",
+      "score": 10,
+      "roles": [
+        "Junior"
+      ]
+    },
+    "2": {
+      "name": "Julie",
+      "score": 50,
+      "roles": [
+        "Junior"
+      ]
+    },
+    "3": {
+      "name": "Paul",
+      "score": 20,
+      "roles": [
+        "Junior"
+      ]
+    },
+    "4": {
+      "name": "Nathalie",
+      "score": 40,
+      "roles": [
+        "Junior"
+      ]
+    },
+    "5": {
+      "name": "Pierre",
+      "score": 240,
+      "roles": [
+        "Senior"
+      ]
+    }
+  },
+  "Users": {
+    "1": {
+      "name": "Julie",
+      "score": 50
+    },
+    "2": {
+      "name": "Paul",
+      "score": 20
+    },
+    "3": {
+      "name": "Nathalie",
+      "score": 40
+    }
+  },
+  "Cars": {
+    "1": {
+      "marque": "Renault"
+    },
+    "2": {
+      "marque": "Citro\u00ebn"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+2023-04-25 20:57:21,768 - DEBUG : logging debug
+2023-04-25 20:57:21,769 - INFO : logging info
+2023-04-25 20:57:21,769 - WARNING : logging warning
+2023-04-25 20:57:21,769 - ERROR : logging error
+2023-04-25 20:57:21,770 - CRITICAL : logging critical
+2023-04-25 20:57:48,906 - DEBUG : logging debug
+2023-04-25 20:57:48,906 - INFO : logging info
+2023-04-25 20:57:48,906 - WARNING : logging warning
+2023-04-25 20:57:48,906 - ERROR : logging error
+2023-04-25 20:57:48,907 - CRITICAL : logging critical
+2023-04-25 20:58:01,835 - DEBUG : logging debug
+2023-04-25 20:58:01,836 - INFO : logging info
+2023-04-25 20:58:01,836 - WARNING : logging warning
+2023-04-25 20:58:01,836 - ERROR : logging error
+2023-04-25 20:58:01,836 - CRITICAL : logging critical

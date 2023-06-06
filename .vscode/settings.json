@@ -1,0 +1,17 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.testing.unittestArgs": [
+    "-v",
+    "-s",
+    "./TEST_UNITAIRE",
+    "-p",
+    "test_*.py"
+  ],
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestArgs": [
+    "TEST_UNITAIRE"
+  ],
+}

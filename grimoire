@@ -1,0 +1,20 @@
+## INSTRUCTIONS D'INSTALLATION DE PYTHON
+--> après avoir cocher l'opion **ADD PATH**, choisir le mode **CUSTOM INSTALLATION**
+--> choisir **INSTALLER POUR TOUS LES UTILISATEURS** et s'assurer que le chemin d'installation ne soit pas dans le %APP_DATA% mais plutôt dans C:/programm_files/PythonXX ou autre
+
+* chemin dans APP_DATA : 'C:\Users\Gab\AppData\Roaming\Python' --> ne devrait pas contenir quelque chose sinon risque de problèmes
+
+* numéro de version de python:
+> python --version
+
+* pour connaitre le chemin du dossier d'installation de python :
+> python -c "import os, sys; print(os.path.dirname(sys.executable))"
+
+## PIP - INSTALLATION DE PACKAGE
+/!\ passer en mode admin pour installer les packages afin qu'ils ne soient pas installer dans %APP_DATA%
+* préférer l'utilisation de la commande suivante qui permet d'installer le package en mode 'cross version' de python
+> py -m pip install nom_package
+
+* lister les packages installer :
+> pip list
+
